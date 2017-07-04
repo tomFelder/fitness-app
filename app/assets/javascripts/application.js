@@ -13,7 +13,7 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
-//= require bootstrap-spockets
+//= require bootstrap-sprockets
 //= require react
 //= require react_ujs
 //= require components
